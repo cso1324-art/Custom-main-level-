@@ -1,0 +1,14 @@
+{
+	"geode": "5.11.2",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "cso1324.custom-main-levels",
+	"name": "Custom Main Levels",
+	"version": "v1.0.0",
+	"developer": "cso1324",
+	"description": "Replace the main levels with your own online levels!"
+}
